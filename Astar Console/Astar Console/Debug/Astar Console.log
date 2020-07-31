@@ -1,0 +1,12 @@
+﻿  Astar Console.cpp
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(26,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(28,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(55,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(57,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(76,18): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(80,19): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(149,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(150,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(162,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\PROGRAMMING\기능반 강의 자료\Astar Console\Astar Console\Astar Console.cpp(163,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Astar Console.vcxproj -> E:\PROGRAMMING\기능반 강의 자료\Astar Console\Debug\Astar Console.exe
